@@ -17,19 +17,19 @@ A simple Bash script for continuously monitoring and logging system resource usa
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/System-Resource-Logger.git
+   git clone https://github.com/janwichmann98/System-Resource-Logger.git
 
 
-2. Create and activate a virtual environment:
+2. Navigate to the project directory:
     ```bash
     cd System-Resource-Logger
 
 
-3. Install the dependencies:
+3. Make the script executable:
     ```bash
     chmod +x system_resource_logger.sh
 
-4. Set the environment variable for your API key:
+4. Run the script:
     ```bash
     ./system_resource_logger.sh
 
